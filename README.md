@@ -6,7 +6,7 @@
 - 💬 Me considero uma pessoa extrovertida, gosto de conversar e me divetir com meus amigos,
 desde criança tive o contato com computadores e o mundo digital, e isso me levou aonde estou hoje...
 - 📫 Deseja entrar em contato? mande um email para: contatovictorj01@gmail.com;
-- 😄 Pronouns: ELe/Dele
+- 😄 Pronouns: Ele/Dele
 
 <div align="center">
   <a href="https://github.com/VictorJustin01">
