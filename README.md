@@ -7,6 +7,10 @@
 desde criança tive o contato com computadores e o mundo digital, e isso me levou aonde estou hoje...
 - 📫 Deseja entrar em contato? mande um email para: contatovictorj01@gmail.com;
 
+![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorJustin01&show_icons=true&theme=white)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorJustin01&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <h2>Minhas Skills</h2>
 
 <p align="left">
