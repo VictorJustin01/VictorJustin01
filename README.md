@@ -1,4 +1,4 @@
--Hello galera, me chamo João Victor😆
+<h2>Hello galera, me chamo João Victor😆</h2>
 
 - 👨‍💻 atualmente faço faculdade de Análise e desenvolvimento de sistemas;
 - 📴 Estudo as lingaguens C e JavaScrit, e também HTML e CSS;
