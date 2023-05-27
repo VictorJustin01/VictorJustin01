@@ -1,7 +1,7 @@
 <h2>Hello galera, me chamo João Victor😆</h2>
 
 - 👨‍💻 atualmente faço faculdade de Análise e desenvolvimento de sistemas;
-- 📴 Estudo as lingaguens C e JavaScrit, e também HTML e CSS;
+- 📴 Conhecimentos em Java, Javascript, C, e mySQl;
 - 🤔 Estou em busca de novas experiencias que possam agregar em minha vida acadêmica e profissional;
 - 💬 Me considero uma pessoa extrovertida, gosto de conversar e me divetir com meus amigos,
 desde criança tive o contato com computadores e o mundo digital, e isso me levou aonde estou hoje...
@@ -17,7 +17,7 @@ desde criança tive o contato com computadores e o mundo digital, e isso me levo
 <h2>Minhas Skills</h2>
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,c" />
+<img src="https://skillicons.dev/icons?i=html,css,js,c,java,mysql" />
 </p>
   
   ##
