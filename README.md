@@ -1,20 +1,4 @@
-<h2>Hello galera, me chamo João Victor😆</h2>
-
-- 👨‍💻 atualmente faço faculdade de Análise e desenvolvimento de sistemas;
-- 📴 Atualmente estudando Java e MySql;
-- Conhecimento em Javascript, C, HTML, CSS, SQL e Java;
-- 🤔 Estou em busca de novas experiencias que possam agregar em minha vida acadêmica e profissional;
-- 💬 Me considero uma pessoa extrovertida, gosto de conversar e me divetir com meus amigos,
-desde criança tive o contato com computadores e o mundo digital, e isso me levou aonde estou hoje...
-- 📫 Deseja entrar em contato? mande um email para: contatovictorj01@gmail.com;
-
-<div align="center">
-
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VictorJustin01&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorJustin01&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#220A4A&heigth=120&section=header"/> 
 <h2>Minhas Skills</h2>
 
 <p align="left">
