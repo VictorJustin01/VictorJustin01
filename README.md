@@ -1,7 +1,8 @@
 <h2>Hello galera, me chamo João Victor😆</h2>
 
 - 👨‍💻 atualmente faço faculdade de Análise e desenvolvimento de sistemas;
-- 📴 Conhecimentos em Java, Javascript, C, e mySQl;
+- 📴 Atualmente estudando Java e MySql;
+- Conhecimento em Javascript, C, HTML, CSS, SQL e Java;
 - 🤔 Estou em busca de novas experiencias que possam agregar em minha vida acadêmica e profissional;
 - 💬 Me considero uma pessoa extrovertida, gosto de conversar e me divetir com meus amigos,
 desde criança tive o contato com computadores e o mundo digital, e isso me levou aonde estou hoje...
